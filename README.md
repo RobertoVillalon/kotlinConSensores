@@ -1,6 +1,6 @@
 # SensorApp - Aplicación de Sensores con Jetpack Compose 🚀📱
 
-**SensorApp** es una aplicación Android desarrollada en Kotlin utilizando **Jetpack Compose**, que permite visualizar datos en tiempo real de distintos sensores disponibles en el dispositivo. La aplicación incluye un menú de navegación con pestañas (tabs) que permiten al usuario cambiar fácilmente entre distintas pantallas.
+**SensorApp** es una aplicación Android desarrollada en Kotlin utilizando **Jetpack Compose**, que permite visualizar datos en tiempo real de distintos sensores disponibles en el dispositivo.
 
 ## 🧠 Funcionalidades
 
